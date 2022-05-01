@@ -1,0 +1,2 @@
+# EqualityChecker_DiffWordType
+同词异形简易判断器；可以根据不同词形的单词，判断它们是否对应同一个原形单词
